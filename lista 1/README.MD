@@ -2,6 +2,7 @@ README DESENVOLVIDO BASEADO NOS MEUS COMENTÁRIOS FEITOS DURANTE O PROJETO NÃO 
 
 
 
+
 # 🐍 Resumo dos Estudos de Python
 
 Este README reúne os principais conceitos, comandos e lógicas que aprendi durante a resolução dos exercícios de Python.
